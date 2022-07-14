@@ -1,7 +1,17 @@
 [
+
   {
+
     "name": "آموزش برنامه نویسی",
+
     "link": "toplearn.com",
-    "image": "https://raw.githubusercontent.com/Viges-man/file/master/Viges.png"
+
+    "image": "https://raw.githubusercontent.com/Viges-man/file/master/Viges.png",
+
+    "search": "topleran",
+
+    "searchlo": "https://toplearn.com/courses?Search\u003d"
+
   }
+
 ]
