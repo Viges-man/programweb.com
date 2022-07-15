@@ -2,11 +2,20 @@
 
   {
 
-    "name": "آموزش برنامه نویسی",
-
+    "name": "تاپ لرن | toplearn",
     "link": "toplearn.com",
 
-    "image": "https://raw.githubusercontent.com/Viges-man/file/master/Viges.png"
+    "image": "hts://raw.githubusercontent.com/Viges-man/file/master/Viges.png"
+
+  },
+
+  {
+
+    "name": "سون لرن",
+
+    "link": "7learn.com",
+
+    "image": ""
 
   }
 
